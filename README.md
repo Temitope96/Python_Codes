@@ -6,5 +6,5 @@ Featured in this Repository are the personal projects I undertook using Python r
 This is a script that uses python to provide a Starter-Financial Plan or Structure that many can use to reduce financial stress due to lack of financial structure.
 
 
-![Case 1 pix]{https://spivacklaw.com/wp-content/uploads/2017/09/feeling-financial-stress.jpg?fit=scale}
+![Case 2 pix]{https://spivacklaw.com/wp-content/uploads/2017/09/feeling-financial-stress.jpg?fit=scale}
 
