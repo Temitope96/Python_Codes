@@ -9,7 +9,7 @@ This is a script that uses python to provide a Starter-Financial Plan or Structu
 ![financial_stress](https://spivacklaw.com/wp-content/uploads/2017/09/feeling-financial-stress.jpg?fit=scale)
 
 
-##📙: Table of Contents
+## 📙: Table of Contents
 - 📰: Project Overview
 - 🛠️: Tools & Skills
 - 📖: Script/Code
@@ -34,7 +34,9 @@ This project stemmed from a resolve to mitigate/extenuate the depressive effects
 ## 📖: Script/Code
 <details><summary>View Script</summary>
 <p>
-``` bash
+  
+```bash
+
 import math
 salary = int(input('How much do you earn monthly? E.g - 200000, 500000, 1000000, 2000000\n Do not add commas'))
 status = input('What\'s your marital status? E.g - single, married')
