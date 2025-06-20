@@ -28,7 +28,7 @@ This project stemmed from a resolve to mitigate/extenuate the depressive effects
 - Jupyter Notebook
 - Math Library
 - Variables and Dictionary
-- FOR Loop
+- FOR Loops
 - IF/ELSE Statements
 
 ## 📖 Script/Code
@@ -41,9 +41,9 @@ import math
 salary = int(input('How much do you earn monthly? E.g - 200000, 500000, 1000000, 2000000\n Do not add commas'))
 status = input('What\'s your marital status? E.g - single, married')
 
-Salary_plan_D = [{'category':'Tithe', 'value':(10/100 * salary)}, #===Tithe is for God bro
+Salary_plan_D = [{'category':'Tithe', 'value':(10/100 * salary)}, #=== Tithe is for God 
                {'category':'Savings', 'value':(50/100 * salary)}, #=== Savings is 50%
-               {'category':'Survival', 'value':(15/100 * salary)}, #=== Survival is 10%
+               {'category':'Survival', 'value':(15/100 * salary)}, #=== Survival is 15%
                {'category':'Fittings', 'value': (15/100 * salary)}, #=== Fittings is for equipping your body and home
                # After a while, this fittings can be saved as an EMERGENCY FUND
                {'category':'Charity/Lifestyle', 'value':(10/100 * salary)} #=== Lifestyle is for flex and can be added to survival
@@ -129,7 +129,4 @@ else:
   
 </p>
 </details>
-
-
-(jupyter nbconvert --to markdown your_notebook.ipynb)
 
