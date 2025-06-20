@@ -9,12 +9,12 @@ This is a script that uses python to provide a Starter-Financial Plan or Structu
 ![financial_stress](https://spivacklaw.com/wp-content/uploads/2017/09/feeling-financial-stress.jpg?fit=scale)
 
 
-## 📙: Table of Contents
+## 📙 Table of Contents
 - 📰: Project Overview
 - 🛠️: Tools & Skills
 - 📖: Script/Code
 
-## 📰: Project Overview
+## 📰 Project Overview
 Depression, as one of the most common mental health problems, marked by sadness, loss of interest or pleasure, feelings of guilt, low self-worth, disturbed sleep and lack of appetence, feelings of tiredness as well as poor concentration, is a leading cause of disability and poor health on a global scale. 
 
 Over the decades, research has shown that one of the economic determinant of depression is Financial Stress as positive associations are noticeable between financial stress and depression. Although, it is observed in high, low, and middle-income earners, studies have indicated that it is more prevalent and stronger among populations with low-income (impoverished societies).
@@ -24,14 +24,14 @@ This project stemmed from a resolve to mitigate/extenuate the depressive effects
 (Citation: PubMed Central (PMC), National Library of Medicine, https://pmc.ncbi.nlm.nih.gov/articles/PMC8863240/)
 
 
-## 🛠️: Tools & Skills
+## 🛠️ Tools & Skills
 - Jupyter Notebook
 - Math Library
 - Variables and Dictionary
 - FOR Loop
 - IF/ELSE Statements
 
-## 📖: Script/Code
+## 📖 Script/Code
 <details><summary>View Script</summary>
 <p>
   
@@ -133,4 +133,3 @@ else:
 
 (jupyter nbconvert --to markdown your_notebook.ipynb)
 
-    
